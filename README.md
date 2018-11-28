@@ -39,6 +39,5 @@ For more information please read the help of each sub-module in the right sideba
 
 Visit the [AI-TOOLKIT](https://ai-toolkit.blogspot.com) website for more information and training video's.
 
-*AI-TOOLKIT and the AI-TOOLKIT Artificial Intelligence Engine are (C) Copyright 2016-present Zoltan Somogyi, All Rights Reserved. Read the license "License.md".
-*
+*AI-TOOLKIT and the AI-TOOLKIT Artificial Intelligence Engine are (C) Copyright 2016-present Zoltan Somogyi, All Rights Reserved. Read the license "License.md".*
 
