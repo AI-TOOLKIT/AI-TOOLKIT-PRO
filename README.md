@@ -16,14 +16,21 @@ The AI-TOOLKIT is compatible with MS Windows 64-bit 7, 8, 10 and above and requi
 
 ## Introduction
 
-AI-TOOLKIT is an **Artificial Intelligence (AI) Software Toolkit** for easy training, testing and prediction of machine learning models and for creating machine learning flow (several AI models working seamlessly together). **No programming skills are needed at all for building and using state of the art machine learning models!** Easy to use and contains several types of machine learning models which can be used separately or connected to each other (ML Flow). There is also a built-in very fast SQL database in order to make the storage of your machine learning data compact and easy. The database supports several GB's of data storage and several databases can be used even in one project.
+AI-TOOLKIT is an **Artificial Intelligence (AI) Software Toolkit** for easy training, testing and prediction of machine learning models and for creating machine learning flow.
 
-Currently the following machine learning models are supported:
+**The AI-TOOLKIT supports all 3 major forms of machine learning: supervised, unsupervised and reinforcement learning!** **No programming skills are needed at all for building and using state of the art machine learning models!**
 
-*	Support Vector Machine (SVM) Classification and Regression.
-*	Random Forest Classification.
-*	Feedforward Neural Network for Classification and Regression (with many layer types available).
-*	Convolutional Feedforward Neural Network for Classification.
+Easy to use and contains several types of machine learning models which can be used separately or connected to each other (ML Flow). There is also a built-in very fast SQL database in order to make the storage of your machine learning data compact and easy. The database supports several GB's of data storage and several databases can be used even in one project.
+
+The following machine learning models are supported:
+
+1. Supervised Learning - Support Vector Machine Model
+2. Supervised Learning - Random Forest Classification Model
+3. Supervised Learning - Feedforward Neural Network Regression Model
+4. Supervised Learning - Feedforward Neural Network Classification Model
+5. Supervised Learning - Convolutional Feedforward Neural Network Classification Model
+6. Unsupervised Learning - KMeans Classification Model
+7. Reinforcement Learning - Deep Q-Learning (Neural Network)
 
 You can use the built-in machine learning models separately (training and prediction/inference) or you can build a larger **AI system in which several AI models are working together in a flow**. Working together in a flow means that one machine learning model may use the output of one or more other machine learning models in a continuous running AI system.
 
