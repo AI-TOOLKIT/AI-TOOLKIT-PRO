@@ -22,21 +22,35 @@ AI-TOOLKIT is an **Artificial Intelligence (AI) Software Toolkit** for easy trai
 
 Easy to use and contains several types of machine learning models which can be used separately or connected to each other (ML Flow). There is also a built-in very fast SQL database in order to make the storage of your machine learning data compact and easy. The database supports several GB's of data storage and several databases can be used even in one project.
 
-The following machine learning models are supported:
+The following major machine learning models and techniques are supported by the AI-TOOLKIT:
 
-1. Supervised Learning - Support Vector Machine Model
-2. Supervised Learning - Random Forest Classification Model
-3. Supervised Learning - Feedforward Neural Network Regression Model
-4. Supervised Learning - Feedforward Neural Network Classification Model
-5. Supervised Learning - Convolutional Feedforward Neural Network Classification Model
-6. Unsupervised Learning - KMeans Classification Model
-7. Reinforcement Learning - Deep Q-Learning (Neural Network)
+1.	Supervised Learning - Support Vector Machine Model
+2.	Supervised Learning - Random Forest Classification Model
+3.	Supervised Learning - Feedforward Neural Network Regression Model
+4.	Supervised Learning - Feedforward Neural Network Classification Model
+5.	Supervised Learning - Convolutional Feedforward Neural Network Classification Model
+6.	Unsupervised Learning - KMeans Classification Model
+7.	Unsupervised Learning - MeanShift Classification Model
+8.	Unsupervised Learning - DBScan Classification Model
+9.	Unsupervised Learning - Hierarchical Classification Model
+10.	Reinforcement Learning - Deep Q-Learning (Neural Network)    
+11.	Dimensionality Reduction with PCA (Principal Component Analyzes)
+12.	Recommendation with Explicit Feedback (Collaborative Filtering) (CFE)
+13.	Recommendation with Implicit Feedback (Collaborative Filtering) (CFI)
 
 You can use the built-in machine learning models separately (training and prediction/inference) or you can build a larger **AI system in which several AI models are working together in a flow**. Working together in a flow means that one machine learning model may use the output of one or more other machine learning models in a continuous running AI system.
 
 There are several **easy to apply machine learning model templates** built-in which makes building a complex AI model very easy by using just some mouse clicks. You can train and test your models easily.
 
-You can import any delimited text data file into the database. You can also import images which will be converted automatically to machine learning data and saved into the database.
+You can import any delimited data file into the database. You can also import images which will be converted automatically to machine learning data and saved into the database.
+
+If you select the "Automatically Convert Categorical or Text values" option then categorical values will be automatically converted to numbers with one of the following options (based on your choices per column):
+
+-	integer encoding,
+-	one-hot encoding (increases the number of features!),
+-	binary encoding (increases the number of features!).
+
+If you select the "Resample for Imbalance Reduction (Classification only!)" option then the data will be automatically resampled in order to correct the class imbalance in the data. The AI-TOOLKIT uses a combination of state of the art resampling methods in order to provide the best possible resampling (noise removal + undersampling of majority classes + oversampling of not majority classes) and not just duplicating or removing records.
 
 There is an **easy to use database** editor which can be used to view and edit all AI-TOOLKIT databases. The database editor and the AI-TOOLKIT both support encrypted databases in case you need to secure your data.
 
