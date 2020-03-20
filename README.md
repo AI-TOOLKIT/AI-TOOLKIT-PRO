@@ -1,6 +1,9 @@
+
 ![Logo](https://4.bp.blogspot.com/-GqwBooCcxIk/W_019cRf4DI/AAAAAAAAA_0/jQ1ogT6yYbg7Sdst2wkzimt6xH95MoDIgCK4BGAYYCw/s1600/logo.png)
 # AI-TOOLKIT Professional
 **FREE for non-commercial use - full version!**
+
+> **IMPORTANT NOTE ABOUT DOWNLOADING AI-TOOLKIT SOFTWARE:** Please note that products from both companies Google and Microsoft use a wrong system to detect potentially dangerous downloads. These products are for example the internet browsers Chrome, Internet Explorer and operating system Windows 10. **The problem is that they do not test if there is a valid digital signature** in the downloaded file but they flag all downloads which are not downloaded frequently as potentially dangerous. Software (like the AI-TOOLKIT) which is updated frequently can never collect enough downloads to remove this message. You can disable this wrong behavior e.g. in Windows 10 by **switching OFF the Windows Defender SmartScreen** (Internet Options). This is perfectly safe to do if you have an antivirus software!
 
 The AI-TOOLKIT is compatible with MS Windows 64-bit 7, 8, 10 and above and requires a CPU released after 2012 (including the AVX processor extension).
 
