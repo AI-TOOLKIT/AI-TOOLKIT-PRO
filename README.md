@@ -59,6 +59,10 @@ There is an **easy to use database** editor which can be used to view and edit a
 
 All machine learning models are **optimized for maximum performance and accuracy**.
 
+**Built-in Tools**
+
+There are also several built-in machine learning tools and applications: **Image editor, Audio editor, Face recognition app, Speaker recognition app**, etc.
+
 For more information please read the help of each sub-module in the right sidebar of the software.
 
 Visit the [AI-TOOLKIT](https://ai-toolkit.blogspot.com) website for more information and training video's.
