@@ -32,6 +32,8 @@ The following major machine learning models and techniques are supported by the 
 3.	Supervised Learning - Feedforward Neural Network Regression Model
 4.	Supervised Learning - Feedforward Neural Network Classification Model
 5.	Supervised Learning - Convolutional Feedforward Neural Network Classification Model
+6.  Supervised Learning - Recurrent Neural Network Regression Model (RNN_R)
+7.	Supervised Learning - Recurrent Neural Network Classification Model (RNN_C)
 6.	Unsupervised Learning - KMeans Classification Model
 7.	Unsupervised Learning - MeanShift Classification Model
 8.	Unsupervised Learning - DBScan Classification Model
